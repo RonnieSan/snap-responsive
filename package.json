@@ -1,0 +1,23 @@
+{
+  "name": "snap-responsive",
+  "version": "1.0.0",
+  "description": "A simple script for adding snap-responsiveness to a website",
+  "main": "SnapResponsive.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonnieSan/snap-responsive.git"
+  },
+  "keywords": [
+    "snap",
+    "responsive"
+  ],
+  "author": "RonnieSan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonnieSan/snap-responsive/issues"
+  },
+  "homepage": "https://github.com/RonnieSan/snap-responsive#readme"
+}
