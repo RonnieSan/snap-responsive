@@ -8,7 +8,7 @@ npm install snap-responsive
 ## Usage
 Import and call the init method. You can pass in optional snap sizes or use the defaults.
 ```js
-import SnapResponsive from 'snap-responsive';
+import { SnapResponsive } from 'snap-responsive';
 
 window.onload = function() {
   SnapResponsive.init();
